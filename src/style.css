@@ -1,14 +1,14 @@
-.dkui-pullLoading {
+.blearui-pullLoading {
   position: fixed;
   left: 0;
   right: 0;
   color: #fff;
   text-align: center; }
-  .dkui-pullLoading_top {
+  .blearui-pullLoading_top {
     top: 0; }
-  .dkui-pullLoading_bottom {
+  .blearui-pullLoading_bottom {
     bottom: 0; }
-  .dkui-pullLoading-direction {
+  .blearui-pullLoading-direction {
     padding: 15px 0;
     text-align: center;
     -moz-transition: 200ms ease-in;
@@ -20,13 +20,13 @@
     -moz-osx-font-smoothing: grayscale;
     text-decoration: none;
     text-transform: none; }
-    .dkui-pullLoading-direction:after {
+    .blearui-pullLoading-direction:after {
       content: "\e619"; }
-  .dkui-pullLoading-loading {
+  .blearui-pullLoading-loading {
     text-align: center;
     opacity: 0.4;
     padding: 15px 0; }
-    .dkui-pullLoading-loading-item {
+    .blearui-pullLoading-loading-item {
       display: inline-block;
       vertical-align: middle;
       width: 10px;
@@ -38,12 +38,12 @@
       background: #fff;
       -webkit-animation: 400ms infinite alternate 0ms;
       animation: 400ms infinite alternate 0ms; }
-      .dkui-pullLoading-loading-item_1 {
+      .blearui-pullLoading-loading-item_1 {
         -webkit-animation-delay: 0ms;
         animation-delay: 0ms; }
-      .dkui-pullLoading-loading-item_2 {
+      .blearui-pullLoading-loading-item_2 {
         -webkit-animation-delay: 200ms;
         animation-delay: 200ms; }
-      .dkui-pullLoading-loading-item_3 {
+      .blearui-pullLoading-loading-item_3 {
         -webkit-animation-delay: 400ms;
         animation-delay: 400ms; }
